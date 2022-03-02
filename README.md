@@ -1,4 +1,4 @@
-# bitcoin_ticker
+# Crypto_currency_converter
 ## Getting Started
 
 This project is a starting point for a Flutter application.
