@@ -14,4 +14,5 @@ samples, guidance on mobile development, and a full API reference.
 
 - [Crypto Currency Converter] - can help you with getting the latest courses information of the most popular crypto currencies like Bitcoin, Etherium and etc, by using API
 
-This app was created during the completing an Angela Yu's Flutter Bootcamp with Dart course
+<img src="images/img1.jpg" alt="Image 1">
+<img src="images/img2.jpg" alt="Image 1">
